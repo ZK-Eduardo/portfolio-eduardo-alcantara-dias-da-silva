@@ -16,7 +16,7 @@ Software / Análise de Dados].
 * **Habilidades Técnicas:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000), ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) .
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em um [Hackathon] onde desenvolvi [um site de criptografia que transformava uma palavra em emoji, onde eu fui responsável por criar uma tabela de letras que eram relacionadas
+* **Experiência/Projetos Relevantes:** Participei de um [Hackathon] onde desenvolvi [um site de criptografia que transformava uma palavra em emoji, onde eu fui responsável por criar uma tabela de letras que eram relacionadas
 as letras. utilizando o javascript.].
 ---
 ### 🛠 Minhas Ferramentas Favoritas
