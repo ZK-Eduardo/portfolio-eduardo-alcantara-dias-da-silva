@@ -2,8 +2,7 @@
  
 ## 
 🗒️
- Descrição do Projeto 
-o.
+ Descrição do Projeto.
  
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
 Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstrar na prática a estruturação e a navegação entre múltiplas páginas em uma aplicação web.
