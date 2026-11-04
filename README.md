@@ -4,7 +4,7 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/eduardoealcantara/))
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](alcantarae075@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alcantarae075@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://seulink.com](https://github.com/ZK-Eduardo/portfolio-eduardo-alcantara-dias-da-silva))
 ---
@@ -13,26 +13,17 @@ Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas]
 Cidade de São Paulo (UNICID)]. Sou apaixonado por resolver problemas através da
 tecnologia e possuo foco em [Área de Interesse - Engenharia de
 Software / Análise de Dados].
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000), ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) .
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
-Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei em um [Hackathon] onde desenvolvi [um site de criptografia que transformava uma palavra em emoji, onde eu fui responsável por criar uma tabela de letras que eram relacionadas
+as letras. utilizando o javascript.].
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge
-&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-ba
-dge&logo=openjdk&logoColor=white)
-#### 🗄 Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-t
-he-badge&logo=postgresql&logoColor=white)
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-th
-e-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg
-?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ---
 ### 📂 Portfólio de Projetos
 #### 󰳕 Desenvolvimento Front-End para Web
