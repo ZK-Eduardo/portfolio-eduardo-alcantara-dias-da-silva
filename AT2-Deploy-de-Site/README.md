@@ -14,7 +14,7 @@ Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstr
  Tecnologias Utilizadas 
 * **Linguagem:** HTML5, CSS
 * **Ferramentas:** VSCode 
-* **Modelo de IA:** Gemini 
+* **Modelo de IA:** Google Gemini 
  
 ## 
 �
