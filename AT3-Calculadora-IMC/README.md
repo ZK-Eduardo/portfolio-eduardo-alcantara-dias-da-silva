@@ -24,7 +24,7 @@ O projeto alcançou resultados interessantes que podem ser utilizados em projeto
 ## 
 🤖
  Declaração de Uso Ético da IA 
-Este projeto utilizou inteligência artificial (Chat GPT) estritamente como ferramenta de suporte 
+Este projeto utilizou inteligência artificial (Google Gemini) estritamente como ferramenta de suporte 
 tecnológico para [Finalidade, de correções de erros]. Todo o código gerado foi revisado, 
 testado e compreendido por mim, garantindo a minha responsabilidade 
 integral sobre a autoria final, integridade e funcionamento da 
