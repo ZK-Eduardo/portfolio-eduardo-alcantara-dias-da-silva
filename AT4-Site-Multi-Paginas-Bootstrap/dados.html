@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Health Style - Dados</title>
+  <link rel="shortcut icon" href="image/icon.jfif" type="image/x-icon">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="bg-secondary d-flex flex-column min-vh-100">
+  <nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">💪Health Style</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link" href="index.html">Inicio</a>
+          <a class="nav-link" href="sobre.html">Sobre</a>
+          <a class="nav-link" href="galeria.html">Galeria</a>
+          <a class="nav-link active" aria-current="page" href="dados.html">Dados</a>
+          <a class="nav-link" href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container-fluid container-lg flex-grow-1 py-4">
+    <h4 class="text-light text-center mb-3">Tabela de Orientação 📊</h4>
+
+    <div class="table-responsive rounded">
+      <table class="table caption-top bg-light bg-gradient mb-0" id="table">
+        <caption class="text-light">Pilares da saúde e bem-estar</caption>
+        <thead>
+          <tr>
+            <th scope="col">Pilar</th>
+            <th scope="col">Principais Hábitos</th>
+            <th scope="col">Benefícios para a Saúde Mental</th>
+            <th scope="col">Benefícios Gerais</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">🥗 Alimentação Equilibrada</th>
+            <td>
+              <p>• Dieta rica em alimentos naturais e variados</p>
+              <p>• Hidratação constante</p>
+              <p>• Redução de ultraprocessados e açúcar em excesso</p>
+            </td>
+            <td>
+              <p>• Suporte na produção de neurotransmissores</p>
+              <p>• Equilíbrio no microbioma intestinal</p>
+              <p>• Prevenção de picos e quedas de humor</p>
+            </td>
+            <td>
+              <p>• Maior vitalidade física</p>
+              <p>• Prevenção de doenças crônicas</p>
+              <p>• Disposição constante ao longo do dia</p>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">😴 Sono Reparador</th>
+            <td>
+              <p>• Higiene do sono (horários regulares)</p>
+              <p>• Evitar telas antes de dormir</p>
+              <p>• Ambiente escuro e silencioso</p>
+            </td>
+            <td>
+              <p>• Regulação do humor e estabilidade emocional</p>
+              <p>• Redução do cansaço mental</p>
+              <p>• Aumento da capacidade de foco</p>
+            </td>
+            <td>
+              <p>• Melhora na tomada de decisões</p>
+              <p>• Maior clareza mental e memória</p>
+              <p>• Fortalecimento do sistema imune</p>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">🏋️ Rotina de Exercícios</th>
+            <td>
+              <p>• Atividades aeróbicas (caminhada, corrida)</p>
+              <p>• Treinos de força (musculação)</p>
+              <p>• Prática regular (pelo menos 150 min/semana)</p>
+            </td>
+            <td>
+              <p>• Liberação de endorfina e serotonina</p>
+              <p>• Redução do cortisol (estresse)</p>
+              <p>• Diminuição da ansiedade</p>
+            </td>
+            <td>
+              <p>• Mais energia e disposição diária</p>
+              <p>• Melhora da mobilidade e postura</p>
+              <p>• Aumento da autoestima</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="p-3 mt-5 bg-info bg-opacity-10 border border-info border-start-0 rounded-end">
+      <h4 id="pergunta" class="text-light">Perguntas Frequentes ❓ (FAQ)</h4>
+      <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+              aria-expanded="true" aria-controls="collapseOne">
+              Como a falta de sono afeta a minha alimentação e os meus treinos?
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <strong>Dormir mal desregula os hormônios da fome (aumenta o apetite por açúcares e ultraprocessados) e
+                reduz o rendimento físico, além de atrasar a recuperação muscular.</strong>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              Qual é o melhor momento do dia para praticar exercícios sem prejudicar o sono?
+            </button>
+          </h2>
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <strong>Atividades moderadas a intensas são ideais pela manhã ou à tarde. Evite treinos muito pesados até
+                2 horas antes de deitar, pois a elevação da adrenalina e da temperatura corporal pode dificultar o
+                adormecer.</strong>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              Como a alimentação influencia a qualidade do sono e a saúde mental?
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <strong>Refeições muito pesadas ou ricas em açúcares à noite atrapalham a digestão e o sono profundo. Como
+                a maior parte da serotonina é produzida no intestino, comer bem melhora a qualidade do descanso e a
+                regulação do humor.</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="card-body bg-light w-100" id="foot1">
+    <p class="card-text text-center mb-0">&copy; 2026 Health Style. Todos Os Direitos Reservados</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

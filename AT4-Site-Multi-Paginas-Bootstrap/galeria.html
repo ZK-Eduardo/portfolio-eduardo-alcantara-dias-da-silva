@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Health Style - Galeria</title>
+  <link rel="shortcut icon" href="image/icon.jfif" type="image/x-icon">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="bg-secondary d-flex flex-column min-vh-100">
+  <nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">💪Health Style</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link" href="index.html">Inicio</a>
+          <a class="nav-link" href="sobre.html">Sobre</a>
+          <a class="nav-link active" aria-current="page" href="galeria.html">Galeria</a>
+          <a class="nav-link" href="dados.html">Dados</a>
+          <a class="nav-link" href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container flex-grow-1 py-4">
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+
+      <!-- Card 1: Alimentação -->
+      <div class="col">
+        <div class="card h-100">
+          <img src="image/frutas.jpeg" class="card-img-top gallery-img" alt="Frutas">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Alimentação Saudável</h5>
+            <p class="card-text">Uma alimentação saudável funciona como combustível vital para o corpo e a
+              mente, fornecendo nutrientes essenciais que garantem energia diária, foco e o
+              fortalecimento do sistema imunitário. Pela conexão entre o intestino e o cérebro, onde é
+              produzida a maior parte da serotonina, comer bem melhora e regula diretamente o humor e a
+              saúde mental.</p>
+            <button type="button" class="btn btn-primary mt-auto align-self-start" data-bs-toggle="modal"
+              data-bs-target="#modalAlimentacao">Saiba Mais</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: Sono -->
+      <div class="col">
+        <div class="card h-100">
+          <img src="image/sono1.png" class="card-img-top gallery-img" alt="Qualidade de sono">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Qualidade de Sono</h5>
+            <p class="card-text">Uma noite de sono reparador funciona como um pilar essencial para a
+              restauração física e mental, permitindo que o cérebro processe memórias e regule
+              adequadamente as emoções e o humor ao longo do dia.</p>
+            <button type="button" class="btn btn-primary mt-auto align-self-start" data-bs-toggle="modal"
+              data-bs-target="#modalSono">Saiba Mais</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: Saúde Mental -->
+      <div class="col">
+        <div class="card h-100">
+          <img src="image/mental.png" class="card-img-top gallery-img" alt="Saúde Mental" id="mental">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Saúde Mental</h5>
+            <p class="card-text">A saúde mental representa um estado dinâmico de equilíbrio emocional e
+              psicológico que capacita o indivíduo a reconhecer as suas próprias capacidades, lidar de
+              forma resiliente com os estresses cotidianos, trabalhar de maneira produtiva e contribuir
+              ativamente para a sua comunidade.</p>
+            <button type="button" class="btn btn-primary mt-auto align-self-start" data-bs-toggle="modal"
+              data-bs-target="#modalMental">Saiba Mais</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 4: Atividade Física -->
+      <div class="col">
+        <div class="card h-100">
+          <img src="image/treino.png" class="card-img-top gallery-img" alt="Pessoas praticando atividade física">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Atividade Física</h5>
+            <p class="card-text">Movimentar o corpo regularmente fortalece o coração, os músculos e os
+              ossos, melhora a disposição e ajuda a controlar o peso. Além dos benefícios físicos, o
+              exercício também reduz sintomas de ansiedade e depressão e melhora a qualidade do sono.</p>
+            <button type="button" class="btn btn-primary mt-auto align-self-start" data-bs-toggle="modal"
+              data-bs-target="#modalExercicio">Saiba Mais</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 5: Hidratação -->
+      <div class="col">
+        <div class="card h-100">
+          <img src="image/copo.png" class="card-img-top gallery-img" alt="Copo com água">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Hidratação</h5>
+            <p class="card-text">A água participa de praticamente todas as funções do organismo: regula a
+              temperatura corporal, transporta nutrientes, lubrifica as articulações e auxilia a
+              eliminação de toxinas. Manter-se hidratado ao longo do dia melhora a concentração e o
+              desempenho físico.</p>
+            <button type="button" class="btn btn-primary mt-auto align-self-start" data-bs-toggle="modal"
+              data-bs-target="#modalHidratacao">Saiba Mais</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 6: Estresse -->
+      <div class="col">
+        <div class="card h-100">
+          <img src="image/estresse.png" class="card-img-top gallery-img" alt="Pessoa meditando">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Controle do Estresse</h5>
+            <p class="card-text">O estresse faz parte da vida, mas, quando se torna constante, pode
+              prejudicar o sono, a imunidade e o coração. Técnicas como respiração profunda, meditação,
+              pausas durante o trabalho e momentos de lazer ajudam o corpo e a mente a se recuperarem.</p>
+            <button type="button" class="btn btn-primary mt-auto align-self-start" data-bs-toggle="modal"
+              data-bs-target="#modalEstresse">Saiba Mais</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Modal 1: Alimentação -->
+  <div class="modal fade" id="modalAlimentacao" tabindex="-1" aria-labelledby="modalAlimentacaoLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalAlimentacaoLabel">Alimentação Saudável</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+        </div>
+        <div class="modal-body">
+          <p>Cerca de 90% da serotonina do corpo — o neurotransmissor essencial para a regulação do humor e
+            do bem-estar — é produzida no trato gastrointestinal, o que torna a saúde da microbiota
+            intestinal e a qualidade dos alimentos ingeridos fundamentais para o nosso equilíbrio
+            emocional.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 2: Sono -->
+  <div class="modal fade" id="modalSono" tabindex="-1" aria-labelledby="modalSonoLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalSonoLabel">Qualidade de Sono</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+        </div>
+        <div class="modal-body">
+          <p>Durante o sono profundo, o cérebro ativa um sistema de drenagem exclusivo chamado sistema
+            glinfático, que funciona como uma verdadeira "faxina noturna" para eliminar resíduos tóxicos e
+            metabólitos acumulados ao longo de todo o dia de atividade cerebral.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 3: Saúde Mental -->
+  <div class="modal fade" id="modalMental" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+    aria-labelledby="modalMentalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalMentalLabel">Saúde Mental</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+        </div>
+        <div class="modal-body">
+          <p>O cérebro humano consome cerca de 20% de toda a energia e oxigênio do corpo, apesar de
+            representar apenas 2% da nossa massa corporal, sendo que a sua saúde e resiliência emocional
+            dependem diretamente de como essa enorme demanda energética é suprida e regulada no dia a dia.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 4: Atividade Física -->
+  <div class="modal fade" id="modalExercicio" tabindex="-1" aria-labelledby="modalExercicioLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalExercicioLabel">Atividade Física</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+        </div>
+        <div class="modal-body">
+          <p>A Organização Mundial da Saúde recomenda que adultos pratiquem pelo menos 150 minutos de
+            atividade física moderada por semana. Durante o exercício, o corpo libera endorfinas, que
+            geram sensação de bem-estar e ajudam a reduzir a percepção de dor e o estresse.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 5: Hidratação -->
+  <div class="modal fade" id="modalHidratacao" tabindex="-1" aria-labelledby="modalHidratacaoLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalHidratacaoLabel">Hidratação</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+        </div>
+        <div class="modal-body">
+          <p>Aproximadamente 60% do corpo de um adulto é composto por água. Mesmo uma desidratação leve pode
+            causar cansaço, dor de cabeça e queda de concentração, por isso é importante beber água
+            regularmente, e não apenas quando sentir sede.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 6: Estresse -->
+  <div class="modal fade" id="modalEstresse" tabindex="-1" aria-labelledby="modalEstresseLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalEstresseLabel">Controle do Estresse</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+        </div>
+        <div class="modal-body">
+          <p>Em situações de estresse, o corpo libera hormônios como o cortisol e a adrenalina. Quando esse
+            estado se prolonga, ele pode afetar o sono, a pressão arterial e o sistema imunológico. Uma
+            técnica simples é a respiração diafragmática: inspirar lentamente pelo nariz, segurar por
+            alguns segundos e soltar o ar devagar pela boca.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="card-body bg-light w-100">
+    <p class="card-text text-center mb-0">&copy; 2026 Health Style. Todos Os Direitos Reservados</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

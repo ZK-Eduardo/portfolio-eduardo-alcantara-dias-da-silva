@@ -1,0 +1,64 @@
+/* Ajustes pontuais — não altera a estrutura de grid do Bootstrap */
+
+/* Carousel: imagens com altura controlada em qualquer tela */
+.carousel-img {
+  width: 100%;
+  height: 45vh;
+  max-height: 450px;
+  object-fit: cover;
+}
+
+/* Galeria: imagens dos cards com altura padronizada */
+.gallery-img {
+  height: 220px;
+  object-fit: cover;
+}
+
+/* Página Sobre: imagem com limite de altura */
+.sobre-img {
+  max-height: 420px;
+  object-fit: cover;
+}
+
+.texto-sobre {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Tabela da página Dados */
+#table th,
+#table td {
+  vertical-align: top;
+}
+
+#table p {
+  margin-bottom: 0.4rem;
+}
+
+/* Rodapé */
+footer {
+  padding: 1rem 0;
+}
+
+/* Celulares */
+@media (max-width: 576px) {
+  .carousel-img {
+    height: 30vh;
+  }
+
+  .gallery-img {
+    height: 180px;
+  }
+
+  .texto-sobre {
+    font-size: 0.95rem;
+  }
+
+  #table {
+    font-size: 0.85rem;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+}
