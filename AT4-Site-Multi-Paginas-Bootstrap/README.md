@@ -6,7 +6,7 @@
 Plataforma web interativa desenvolvida com foco no universo dos games. O site apresenta uma estrutura multipágina, oferecendo conteúdos direcionados sobre diferentes consoles de videogame, além de uma seção dedicada a acompanhar os próximos lançamentos do mercado.
  
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
-Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstrar na prática a estruturação e a navegação entre múltiplas páginas em uma aplicação web.
+Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstrar na prática a estruturação atraves de frameworks.
  
 ## 
 �
@@ -45,6 +45,6 @@ aplicação.
 �
  Deploy do projeto 
  
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/) 
+[Clique para acessar]([https://seu-usuario.github.io/xxxxxxxxx/](https://zk-eduardo.github.io/health-style-projeto/)) 
  --- 
 [Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
