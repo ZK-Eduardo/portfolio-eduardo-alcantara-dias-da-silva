@@ -1,20 +1,20 @@
 # 📽️ Paginas em HTML 
  
-## 
-🗒️
- Descrição do Projeto 
-Plataforma web interativa desenvolvida com foco no universo dos games. O site apresenta uma estrutura multipágina, oferecendo conteúdos direcionados sobre diferentes consoles de videogame, além de uma seção dedicada a acompanhar os próximos lançamentos do mercado.
+## 🗒️Descrição do Projeto 
+
+O Health Style é uma plataforma web interativa desenvolvida para promover a conscientização sobre hábitos saudáveis, saúde mental e qualidade de vida. O site possui uma estrutura multipágina (index, sobre, galeria, dados e contato), oferecendo conteúdos educativos sobre pilares essenciais como alimentação equilibrada, higiene do sono, atividades físicas e gestão do estresse.
  
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
-Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstrar na prática a estruturação atraves de frameworks.
+Para Web (2026.2)**, "este website foi construído com o propósito de demonstrar na prática a estruturação de layouts responsivos através do framework Bootstrap 5, integração de componentes dinâmicos (como carrosséis, modais, acordeões de FAQ e tabelas estilizadas"
  
 ## 
 �
 �
  Tecnologias Utilizadas 
-* **Linguagem:** HTML5, CSS
+* **Linguagem:** HTML5, CSS3
+* Framework Front-End: Bootstrap 5.2.3 (CSS e JS via CDN)
 * **Ferramentas:** VSCode 
-* **Modelo de IA:** Gemini 
+* **Modelo de IA:** Google Gemini 
  
 ## 
 �
@@ -22,20 +22,15 @@ Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstr
  Resultados e Aprendizados 
 O projeto alcançou resultados sólidos em ambiente de teste, demonstrando 
 a eficácia do modelo híbrido. 
-* **O modelo atingiu 92% de acurácia** nos testes de validação. 
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e 
-normalização de dados para melhorar a performance dos algoritmos. 
-* **Visualização de Clusters:** Implementei gráficos que mostram como o 
-sistema agrupa filmes por afinidade. 
+* **Estruturação com Frameworks:** omínio das classes utilitárias e do grid de 12 colunas do Bootstrap 5, garantindo perfeita adaptação em dispositivos móveis, tablets e desktops (Mobile-First).  
+* **Acessibilidade e Usabilidade:** Organização semântica das tags HTML5, estruturação clara de formulários com rótulos e avisos de proteção de dados (LGPD).
  
 ## 
 �
 �
  Declaração de Uso Ético da IA 
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex: 
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte 
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e 
-depuração de funções em JavaScript]. Todo o código gerado foi revisado, 
+Este projeto utilizou inteligência artificial (Google Gemini) estritamente como ferramenta de suporte 
+tecnológico para [Finalidade, de correções de erros]. Todo o código gerado foi revisado, 
 testado e compreendido por mim, garantindo a minha responsabilidade 
 integral sobre a autoria final, integridade e funcionamento da 
 aplicação.  
