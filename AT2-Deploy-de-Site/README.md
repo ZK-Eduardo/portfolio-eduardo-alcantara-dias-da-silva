@@ -14,13 +14,13 @@ Para Web (2026.2)**, "Este website foi construído com o propósito de demonstra
 ## 📒Resultados e Aprendizados 
 O projeto alcançou resultados sólidos em ambiente de teste, demonstrando 
 a eficácia do modelo híbrido. 
-* **Arquitetura de Informação e Navegação Multipágina:** Organização do código HTML em múltiplas seções interconectadas via marcação semântica (<header>, <nav>, <main>, <article>, <aside> e <footer>).
+* **Arquitetura de Informação e Navegação Multipágina:** Organização do código HTML em múltiplas seções interconectadas via marcação semântica.
+* **Estruturação de Conteúdo e Listas:** Formatação de cronogramas e dados sequenciais para apresentar lançamentos e notícias de forma clara ao leitor.
+
  
 ## Declaração de Uso Ético da IA 
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex: 
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte 
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e 
-depuração de funções em JavaScript]. Todo o código gerado foi revisado, 
+Este projeto utilizou inteligência artificial (Google Gemini) estritamente como ferramenta de suporte 
+tecnológico para [Finalidade, correções de erro]. Todo o código gerado foi revisado, 
 testado e compreendido por mim, garantindo a minha responsabilidade 
 integral sobre a autoria final, integridade e funcionamento da 
 aplicação.  
