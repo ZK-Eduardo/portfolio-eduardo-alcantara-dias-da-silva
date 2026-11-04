@@ -3,7 +3,8 @@
 ## 🗒️Descrição do Projeto.
  
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
-Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstrar na prática a estruturação e a navegação entre múltiplas páginas em uma aplicação web.
+Para Web (2026.2)**, "Este website foi construído com o propósito de demonstrar na prática a organização de páginas, a estruturação semântica do HTML5, a implementação de menus de navegação e a exibição de artigos de notícias.
+**Nota:** O deploy deste projeto é o mesmo da AT1-Paginas-HTML.
  
 ## 🔎Tecnologias Utilizadas 
 * **Linguagem:** HTML5, CSS
@@ -13,11 +14,7 @@ Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstr
 ## 📒Resultados e Aprendizados 
 O projeto alcançou resultados sólidos em ambiente de teste, demonstrando 
 a eficácia do modelo híbrido. 
-* **O modelo atingiu 92% de acurácia** nos testes de validação. 
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e 
-normalização de dados para melhorar a performance dos algoritmos. 
-* **Visualização de Clusters:** Implementei gráficos que mostram como o 
-sistema agrupa filmes por afinidade. 
+* **Arquitetura de Informação e Navegação Multipágina:** Organização do código HTML em múltiplas seções interconectadas via marcação semântica (<header>, <nav>, <main>, <article>, <aside> e <footer>).
  
 ## Declaração de Uso Ético da IA 
 Este projeto utilizou inteligência artificial ([Nome do Modelo, ex: 
@@ -30,6 +27,6 @@ aplicação.
  
 ## 🎬Deploy do projeto 
  
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/) 
+[Clique para acessar](https://zk-eduardo.github.io/games_noticias/) 
  --- 
 [Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
