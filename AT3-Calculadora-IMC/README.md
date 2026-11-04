@@ -13,25 +13,19 @@ Para Web (2026.2)**, "Este website foi desenvolvido com o propósito de demonstr
  Tecnologias Utilizadas 
 * **Linguagem:** HTML5, Javascript
 * **Ferramentas:** VSCode
- 
+* **Modelo de IA
 ## 
 📒
  Resultados e Aprendizados 
-O projeto alcançou resultados interessantes
-* **O modelo atingiu 92% de acurácia** nos testes de validação. 
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e 
-normalização de dados para melhorar a performance dos algoritmos. 
-* **Visualização de Clusters:** Implementei gráficos que mostram como o 
-sistema agrupa filmes por afinidade. 
+O projeto alcançou resultados interessantes que podem ser utilizados em projetos futuros.
+* **Medição de IMC precisa** nos testes de validação.
+* **Aprendizado:** Compreensão prática de como o JavaScript atua no desenvolvimento front-end, permitindo criar interatividade, manipular elementos e aplicar regras de negócio em páginas web.   
  
 ## 
-�
-�
+🤖
  Declaração de Uso Ético da IA 
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex: 
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte 
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e 
-depuração de funções em JavaScript]. Todo o código gerado foi revisado, 
+Este projeto utilizou inteligência artificial (Chat GPT) estritamente como ferramenta de suporte 
+tecnológico para [Finalidade, de correções de erros]. Todo o código gerado foi revisado, 
 testado e compreendido por mim, garantindo a minha responsabilidade 
 integral sobre a autoria final, integridade e funcionamento da 
 aplicação.  
