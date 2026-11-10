@@ -24,6 +24,6 @@ aplicação.
  
 ## 🎬Deploy do projeto 
  
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/) 
+[Clique para acessar](https://zk-eduardo.github.io/calculadora-imc/) 
  --- 
 [Voltar ao início](https://github.com/ZK-Eduardo/portfolio-eduardo-alcantara-dias-da-silva)
