@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alcantarae075@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://seulink.com](https://github.com/ZK-Eduardo/portfolio-eduardo-alcantara-dias-da-silva))
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@alc_dudu/)
 ---
 ### 󰞵 Sobre
 Atualmente cursando o [2º] período de [Análise e Desenvolvimento de Sistemas] na [Universidade
