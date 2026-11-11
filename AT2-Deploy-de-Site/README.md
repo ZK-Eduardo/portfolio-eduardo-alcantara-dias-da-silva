@@ -3,21 +3,16 @@
 ## 🗒️Descrição do Projeto.
  
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
-Para Web (2026.2)**, "Este website foi construído com o propósito de demonstrar na prática a organização de páginas, a estruturação semântica do HTML5, a implementação de menus de navegação e a exibição de artigos de notícias.
-**Nota:** O deploy deste projeto é o mesmo da AT1-Paginas-HTML.
+Para Web (2026.2)**, "Esta atividade ela complementa a AT1-Paginas-HTML, onde foi realizado um deploy do site pelo GitHub, para tornar o site acessível para todos"
  
 ## 🔎Tecnologias Utilizadas 
 * **Linguagem:** HTML5, CSS
 * **Ferramentas:** VSCode 
 * **Modelo de IA:** Google Gemini 
  
-## 📒Resultados e Aprendizados 
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando 
-a eficácia do modelo híbrido. 
-* **Arquitetura de Informação e Navegação Multipágina:** Organização do código HTML em múltiplas seções interconectadas via marcação semântica.
-* **Estruturação de Conteúdo e Listas:** Formatação de cronogramas e dados sequenciais para apresentar lançamentos e notícias de forma clara ao leitor.
+## 📒Resultados e Aprendizados  
+* **Aprendizado de Deploy:** Tornar um site acessível, foi um grande aprendizado para compreender, como "transformar" um site local em um site público.
 
- 
 ## Declaração de Uso Ético da IA 
 Este projeto utilizou inteligência artificial (Google Gemini) estritamente como ferramenta de suporte 
 tecnológico para [Finalidade, correções de erro]. Todo o código gerado foi revisado, 
