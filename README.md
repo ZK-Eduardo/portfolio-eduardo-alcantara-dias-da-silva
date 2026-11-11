@@ -26,19 +26,15 @@ as letras. utilizando o javascript.].
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ---
 ### 📂 Portfólio de Projetos
-#### 󰳕 Desenvolvimento Front-End para Web
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Básico em HTML5** | Criação de site básico com 5 páginas em
-HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no github pages. 
-   | [VerProjeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com
-JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento
-de um site com múltiplas páginas. | [VerProjeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end
-com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+| **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
+| **Deploy de Site** | Publicação de site no GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
+| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
+| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
+| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+
 #### 🗃 Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
